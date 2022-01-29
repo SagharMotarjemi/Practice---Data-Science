@@ -1,2 +1,3 @@
 # Practice---Data-Science
-I'm just trying to push my changes back!
+Trying different "dplyr" verbs and their usage while manipulating the data.
+Just simple practices you know!
