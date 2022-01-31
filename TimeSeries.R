@@ -11,3 +11,6 @@ ggseasonplot(airpass_monthly, year.labels=TRUE, year.labels.left=TRUE) +
   ylab("Number of passengers") +
     xlab("year") + 
       ggtitle("Monthly totals of international airline passengers, 1949 to 1960")
+gglagplot(airpass_monthly)
+ggsubseriesplot(airpass_monthly)
+ggAcf(airpass_monthly)
